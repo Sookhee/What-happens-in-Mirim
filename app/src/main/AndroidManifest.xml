@@ -24,6 +24,7 @@
         <activity android:name=".FirstStory" />
         <activity android:name=".SecondStory"></activity>
         <activity android:name=".ThirdStory"></activity>
+        <activity android:name=".FourthStory"></activity>
     </application>
 
 </manifest>

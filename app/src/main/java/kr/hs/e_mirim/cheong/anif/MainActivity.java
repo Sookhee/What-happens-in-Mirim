@@ -43,6 +43,11 @@ public class MainActivity extends AppCompatActivity {
         startActivity(intent);
     }
 
+    public void fourthstory(View view){
+        Intent intent = new Intent(MainActivity.this, FourthStory.class);
+        startActivity(intent);
+    }
+
     public class MyTimerTask extends TimerTask {
 
         @Override

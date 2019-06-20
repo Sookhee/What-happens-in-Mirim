@@ -17,6 +17,7 @@ public class Adapter  extends PagerAdapter {
     private int[] images={R.drawable.ss1,R.drawable.ss2,R.drawable.ss3,R.drawable.ss4,R.drawable.ss5,R.drawable.ss6,R.drawable.ss7,R.drawable.ss8};
     private int[] images2={R.drawable.app1,R.drawable.app2,R.drawable.app3,R.drawable.app4,R.drawable.app5,R.drawable.app6, R.drawable.app7,R.drawable.app8,R.drawable.app9};
     private int[] images3={R.drawable.d1,R.drawable.d2,R.drawable.d3,R.drawable.d4,R.drawable.d5,R.drawable.d6,R.drawable.d7,R.drawable.d8,R.drawable.last};
+    private int[] images4={R.drawable.d1,R.drawable.d2,R.drawable.d3,R.drawable.d4,R.drawable.d5,R.drawable.d6,R.drawable.d7,R.drawable.d8,R.drawable.last};
     private Context context;
     int num;
     public Adapter(Context context) {
@@ -47,8 +48,11 @@ public class Adapter  extends PagerAdapter {
         else if(num==2){
             imageView.setImageResource(images2[position]);
         }
-        else if(num==3){
+        else if(num==3) {
             imageView.setImageResource(images3[position]);
+        }
+        else if(num==4){
+            imageView.setImageResource(images4[position]);
         }
         container.addView(v);
         return v;
