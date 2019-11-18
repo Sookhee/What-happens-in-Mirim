@@ -11,7 +11,7 @@
   * 착한 학생이 미림 연못에 낡은 노트북을 빠뜨리자 연못의 신이 나타나 몇가지 질문을 한다...
 
 ## 실행화면
-<img src="https://postfiles.pstatic.net/MjAxOTExMThfMjcz/MDAxNTc0MDA3NDczNzMz.N_ol4jDmdJacxtJ110sqWMQAP4Ox6Hf2YQh5ZMS3xogg.3J2IMUGpe9Y99-TB_jBQtvE5PX9hH12cd8YOdyCJqdIg.PNG.gkh10004/%EA%B7%B8%EB%A6%BC1.png?type=w773" width="400px" title="실행화면 p0" alt="실행화면0"></img>
+<img src="https://postfiles.pstatic.net/MjAxOTExMThfMzcg/MDAxNTc0MDM3MDU0MDAz.2AANkq0F4u-JBRTMFHRn6B6AQJprET1cHeHExhJqWiog.MJgfzoFIWsQfMv-HQnvAj_flTEjMpgQ1iCRI1BJ6oyEg.PNG.gkh10004/%EA%B7%B8%EB%A6%BC1.png?type=w773" width="400px" title="실행화면 p0" alt="실행화면0"></img>
 
 
 ## Run on
